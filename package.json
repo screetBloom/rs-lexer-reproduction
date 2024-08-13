@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"task": "node rs-module-lexer-jsx.js"
+	},
+	"devDependencies": {
+		"esbuild": "^0.23.0",
+		"rs-module-lexer": "^2.5.0"
+	}
+}
